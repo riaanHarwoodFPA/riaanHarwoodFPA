@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Riaan Harwood</h1>
 
-<!--
-**riaanHarwoodFPA/riaanHarwoodFPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineer • Integration Engineer • Building scalable systems
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:riaan.harwood@fisherpaykel.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/riaan-harwood">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/riaanHarwoodFPA">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=riaan.harwood@fisherpaykel.com">
+    <img src="https://img.shields.io/badge/Microsoft_Teams-Message_Me-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About
+
+I’m a software engineer based in Auckland, New Zealand, currently working as an **Integration Engineer** building reusable microservices and APIs using Java, Python, MuleSoft, Node.js and TypeScript.
+
+I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions.
