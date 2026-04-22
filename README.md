@@ -23,5 +23,5 @@
 
 ## 👋 About
 
-I’m a software engineer based in Auckland, New Zealand, currently working as a **Trainee Integration Engineer**, where I develop reusable microservices and APIs using MuleSoft, Java, Python, Node.js, and TypeScript.
-I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions.
+I’m a software engineer based in Auckland, New Zealand, currently working as a **Trainee Software Integration Engineer**, developing reusable microservices and APIs using MuleSoft, Java, Python, Node.js, and TypeScript.
+I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions. IN my spare time, you'll find me on the pitch playing footie or out on the water fishing. 
