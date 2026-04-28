@@ -22,8 +22,10 @@
 <br>
 
 **Languages**: Python, TypeScript, JavaScript, Java, C#
+
 **RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite, 
 
+<br>
 
 ---
 
