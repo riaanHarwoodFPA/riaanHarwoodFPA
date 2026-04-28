@@ -28,14 +28,6 @@ I’m a software engineer based in Auckland, New Zealand, currently working as a
 I enjoy designing scalable systems, building modern web applications, and exploring AI-driven solutions. In my spare time, you'll find me on the pitch playing footie or out on the water fishing. 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riaanHarwoodFPA&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riaanHarwoodFPA" height="150">
-</p>
-
-
 <br>
 
 **Languages**: Python, TypeScript, JavaScript, Java, C#
@@ -43,3 +35,12 @@ I enjoy designing scalable systems, building modern web applications, and explor
 **RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite, 
 
 <br>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riaanHarwoodFPA&show_icons=true&theme=default" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riaanHarwoodFPA" height="150">
+</p>
+
