@@ -19,6 +19,12 @@
   </a>
 </p>
 
+<br>
+
+**Languages**: Python, TypeScript, JavaScript, Java, C#
+**RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite, 
+
+
 ---
 
 ## 👋 About
