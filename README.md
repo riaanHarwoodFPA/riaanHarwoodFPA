@@ -19,13 +19,6 @@
   </a>
 </p>
 
-<br>
-
-**Languages**: Python, TypeScript, JavaScript, Java, C#
-
-**RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite, 
-
-<br>
 
 ---
 
@@ -41,3 +34,12 @@ I enjoy designing scalable systems, building modern web applications, and explor
   <img src="https://github-readme-stats.vercel.app/api?username=riaanHarwoodFPA&show_icons=true&theme=default" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riaanHarwoodFPA" height="150">
 </p>
+
+
+<br>
+
+**Languages**: Python, TypeScript, JavaScript, Java, C#
+
+**RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite, 
+
+<br>
