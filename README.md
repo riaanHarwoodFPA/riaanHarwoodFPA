@@ -30,7 +30,7 @@ I’m a software engineer based in Auckland, New Zealand, currently working as a
 
 **Languages**: Python, TypeScript, JavaScript, Java, C#
 
-**RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite, 
+**RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite 
 
 <br>
 
