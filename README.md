@@ -34,6 +34,8 @@ I’m a software engineer based in Auckland, New Zealand, currently working as a
 
 **RDBMS**: PostgreSQL, MongoDB, MySQL, SQLite
 
+**Technologies**: Azure, AWS, Salesforce
+
 <br>
 
 
