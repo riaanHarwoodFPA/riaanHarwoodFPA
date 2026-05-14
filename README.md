@@ -28,7 +28,7 @@ I’m a software engineer based in Auckland, New Zealand, currently working as a
 
 <br>
 
-## 🛠️ Experience
+## 🛠️ Tools 
 
 **Languages**: Python, TypeScript, JavaScript, Java, C#
 
