@@ -14,7 +14,7 @@
   <a href="https://github.com/riaanHarwoodFPA">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=riaanh27@hotmail.com>
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=riaan.harwood@fisherpaykel.com>
     <img src="https://img.shields.io/badge/Microsoft_Teams-Message_Me-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
   </a>
 </p>
