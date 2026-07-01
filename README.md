@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:riaan.harwood@fisherpaykel.com">
+  <a href="mailto:riaandevtesting@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/riaan-harwood">
